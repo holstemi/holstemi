@@ -1,3 +1,4 @@
+<!---
 # Hello there!
 
 I'm Emil, a developer from Finland.
@@ -15,7 +16,7 @@ With programming I'm most interested in web service backend developement, API de
 -  **Database:** SQL Databases (MySQL, MariaDB)
 -  **Server:** Linux (RHEL, Ubuntu, Proxmox)
 
-<!---
+
 holstemi/holstemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
